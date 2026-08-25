@@ -2,7 +2,7 @@
 
 ### A passionate and curious developer
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=snowyxbb)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-unserori.vercel.app/?username=snowyxbb&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I'm currently working on **a fullstack AI based proposal generator app.** inspired by my friend's project.
