@@ -2,7 +2,8 @@
 
 ### A passionate and curious developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snowyxbb" alt="snowyxbb" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=snowyxbb)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🔭 I'm currently working on **a fullstack AI based proposal generator app.** inspired by my friend's project.
 
